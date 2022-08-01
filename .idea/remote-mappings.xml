@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@ssh://ices@10.248.19.221:22/home/ices/anaconda3/bin/python" />
+        <remote-mappings server-id="python@ssh://ices@10.249.183.169:22/home/ices/anaconda3/envs/tensorflow/bin/python" />
+        <remote-mappings server-id="python@ssh://ices@10.248.19.43:22/home/ices/anaconda3/bin/python" />
+        <remote-mappings server-id="python@ssh://ices@10.249.44.110:22/home/ices/anaconda3/bin/python" />
+        <remote-mappings server-id="python@ssh://ices@10.248.19.48:22/home/ices/anaconda3/bin/python" />
+        <remote-mappings server-id="python@ssh://ices@10.249.42.126:22/home/ices/anaconda3/bin/python" />
+        <remote-mappings server-id="python@ssh://ices@10.248.19.233:22/home/ices/anaconda3/envs/chuyao/bin/python" />
+        <remote-mappings server-id="python@ssh://ices@10.249.42.218:22/home/ices/anaconda3/envs/chuyao/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/ices/PycharmProject/multi_task_CIKM" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
